@@ -1,2 +1,2 @@
-🧑 - Marek
-📍  - Germany
+- 🧑 Marek
+- 📍 Germany
